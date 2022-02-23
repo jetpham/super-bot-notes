@@ -1,17 +1,17 @@
 # swerve drive
-sources: https://www.youtube.com/watch?v=ykl5CvG53KA, 
+Sources: https://www.youtube.com/watch?v=ykl5CvG53KA, 
 modules contain a wheel on pivot
 wheels are driven and steered independently of each other
 allows simultaneaous translation and rotaion of a robot
 
-## pros
+## pro
 - agility - 2d drive with direction and chasis orientation indipendent
 - amazing traction
 - tactical stealth - it is harder to read where the robot will move next
 - no need for rotational aiming with something like a turret
 - different drive modes can be added in software - very flexible
 - able to "roll off" off defenders like in soccer 
-- very minimal steering hysteresis - very responsive to turning
+- Very minimal steering hysteresis - very responsive to turning
 - robot can be driven with reference to the field orrientation. forward is  the same direction relative to the driver
 - very modular and allows easy repairs
 - allows more freedom in robot design due to all 4 sides being able to be the leading side. even corners
