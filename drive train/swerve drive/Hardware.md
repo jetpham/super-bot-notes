@@ -16,7 +16,7 @@ allows simultaneaous translation and rotaion of a robot
 - very modular and allows easy repairs
 - allows more freedom in robot design due to all 4 sides being able to be the leading side. even corners
 
-## Cons
+## Con
 - complexity/ difficulty 
 	- it is not easy to exicute and it has ahigh barrier to entry skill wise
 	- control software is very difficult compared to tank drive
