@@ -11,7 +11,7 @@ allows simultaneaous translation and rotaion of a robot
 - no need for rotational aiming with something like a turret
 - different drive modes can be added in software - very flexible
 - able to "roll off" off defenders like in soccer 
-- very minimal steering hysteresis - very responsive to turning
+- Very minimal steering hysteresis - very responsive to turning
 - robot can be driven with reference to the field orrientation. forward is  the same direction relative to the driver
 - very modular and allows easy repairs
 - allows more freedom in robot design due to all 4 sides being able to be the leading side. even corners
