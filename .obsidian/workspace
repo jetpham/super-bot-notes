@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "drive train/swerve drive/Hardware.md",
+            "file": "drive train/swerve drive/Hardware/encoders.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "drive train/swerve drive/Hardware.md",
+                "file": "drive train/swerve drive/Hardware/encoders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,9 @@
   },
   "active": "29a91c1c0e495327",
   "lastOpenFiles": [
-    "drive train/swerve drive/Hardware.md",
+    "drive train/swerve drive/Hardware/encoders.md",
+    "drive train/swerve drive/Hardware/Hardware.md",
+    "README.md",
     "drive train/swerve drive/Premade Hardware.md",
     "drive train/swerve drive/Software.md",
     "shooting mechanism/robot wrist mechanism/details.md",
