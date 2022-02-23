@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "0bcc54236f4ee1c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "29a91c1c0e495327",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "drive train/swerve drive/Hardware.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f48b2571c6f7d66c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6aa5c968f71263d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99ba80f1e7eab742",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "78408edf7f394888",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "356278ba8df4c34a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b8b9f8bb5104889",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73f36b44ab88843b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "drive train/swerve drive/Hardware.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "29a91c1c0e495327",
+  "lastOpenFiles": [
+    "drive train/swerve drive/Hardware.md",
+    "drive train/swerve drive/Premade Hardware.md",
+    "drive train/swerve drive/Software.md",
+    "shooting mechanism/robot wrist mechanism/details.md",
+    "drive train/swerve drive/Control.md"
+  ]
+}
