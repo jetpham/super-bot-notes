@@ -1,5 +1,5 @@
 # swerve drive
-sources: https://www.youtube.com/watch?v=ykl5CvG53KA, 
+Sources: https://www.youtube.com/watch?v=ykl5CvG53KA, 
 modules contain a wheel on pivot
 wheels are driven and steered independently of each other
 allows simultaneaous translation and rotaion of a robot
