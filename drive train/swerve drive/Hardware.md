@@ -4,7 +4,7 @@ modules contain a wheel on pivot
 wheels are driven and steered independently of each other
 allows simultaneaous translation and rotaion of a robot
 
-## pros
+## pro
 - agility - 2d drive with direction and chasis orientation indipendent
 - amazing traction
 - tactical stealth - it is harder to read where the robot will move next
