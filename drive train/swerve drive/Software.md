@@ -15,3 +15,5 @@ https://www.chiefdelphi.com/t/an-impractical-differential-swerve-design/365015
 https://www.chiefdelphi.com/t/2x-neo-550-differential-swerve-2-845lbs/374565
 https://www.chiefdelphi.com/t/paper-a-state-space-model-for-a-differential-swerve/396496
 https://swerveroboticsystems.github.io/Report/Condensed/
+
+differencial serve example math https://github.com/ameliorater/ftc-diff-swerve/wiki/Motor-Power-Vectors
