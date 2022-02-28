@@ -17,3 +17,4 @@ https://www.chiefdelphi.com/t/paper-a-state-space-model-for-a-differential-swerv
 https://swerveroboticsystems.github.io/Report/Condensed/
 
 differencial serve example math https://github.com/ameliorater/ftc-diff-swerve/wiki/Motor-Power-Vectors
+https://drive.google.com/file/d/1WF40Z-JI8Ws0jd8frnWHGD_UQ12maZvN/view
