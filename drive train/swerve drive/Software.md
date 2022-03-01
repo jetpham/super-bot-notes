@@ -18,3 +18,4 @@ Example code:
 [differencial serve example math ](https://github.com/ameliorater/ftc-diff-swerve/wiki/Motor-Power-Vectors)
 [an exapmle of a practical use of differnetial swerve drive. very good design](https://drive.google.com/file/d/1WF40Z-JI8Ws0jd8frnWHGD_UQ12maZvN/view)
 [design tool for calculating drivetrain speeds](https://onshape4frc.com/calculators)
+[top gear design for differential swerve](https://www.chiefdelphi.com/uploads/default/original/3X/a/5/a53696821ab945a542700316f25b35faeee74c51.png)
