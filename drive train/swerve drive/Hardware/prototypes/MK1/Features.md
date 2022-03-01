@@ -8,5 +8,6 @@ bearings are used to give mobility to the top and bottom involute gerars and the
 
 horizontally oriented design made originally by serindipity innovatoins in their off season project
 [gears matirial](https://3dsolved.com/best-3d-printing-filament-for-gears/#best-3d-printing-materialfilament-for-gears)
+[peek](https://www.3dprintem.com/best-filament-for-gears/)
 [another design](https://docs.team4909.org/robots/designs/diff-swerve/)
 
