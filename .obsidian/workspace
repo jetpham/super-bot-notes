@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "drive train/swerve drive/Software/Philosophies.md",
+            "file": "Shoot on the move/stages of sotm.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "drive train/swerve drive/Software/Philosophies.md",
+                "file": "Shoot on the move/stages of sotm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "29a91c1c0e495327",
   "lastOpenFiles": [
-    "drive train/swerve drive/Software/Philosophies.md",
-    "drive train/swerve drive/Software/Control.md",
-    "drive train/swerve drive/Software/Structure.md",
+    "Shoot on the move/stages of sotm.md",
+    "Untitled.md",
     "drive train/swerve drive/Examples of code and hardware.md",
-    "drive train/swerve drive/Premade Hardware.md",
+    "drive train/swerve drive/Software/Control.md",
+    "drive train/swerve drive/Software/Philosophies.md",
     "drive train/swerve drive/Hardware/prototypes/MK1/Features.md",
-    "drive train/swerve drive/Hardware/prototypes/MK1/Cad.md",
     "drive train/swerve drive/Hardware/encoders.md",
+    "drive train/swerve drive/Hardware/prototypes/MK1/Cad.md",
     "drive train/swerve drive/Hardware/Hardware.md",
-    "README.md"
+    "drive train/swerve drive/Premade Hardware.md"
   ]
 }
