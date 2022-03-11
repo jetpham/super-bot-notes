@@ -1,0 +1,5 @@
+- sotm stands for "shoot on the move"
+- sotm must have a better accuracy rate than the current shooting percent while standing still in case we dont use it while shooting
+- sotm will constnatly be able to, at any time, give the needed turret andgle and rpm speed to shoot at any given moment. This does not mean that the turret and flywheel has to stay at those speeds in the cases of when we are not shooting. 
+- sotm only controls the turret and the flywheel and nothing else
+- there is a goal, drivetrain, turret, flywheel, and vision. there is no "shooter" be specific.

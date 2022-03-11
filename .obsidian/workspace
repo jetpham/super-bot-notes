@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Shoot on the move/stages of sotm.md",
+            "file": "Shoot on the move/shooting with instantanious velocity and heading.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shoot on the move/stages of sotm.md",
+                "file": "Shoot on the move/shooting with instantanious velocity and heading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "29a91c1c0e495327",
   "lastOpenFiles": [
+    "Shoot on the move/shooting with instantanious velocity and heading.md",
+    "Shoot on the move/Command IO.md",
+    "Shoot on the move/trajectory.md",
+    "Shoot on the move/standards.md",
+    "Shoot on the move/literal io/input.md",
     "Shoot on the move/stages of sotm.md",
     "Untitled.md",
     "drive train/swerve drive/Examples of code and hardware.md",
     "drive train/swerve drive/Software/Control.md",
-    "drive train/swerve drive/Software/Philosophies.md",
-    "drive train/swerve drive/Hardware/prototypes/MK1/Features.md",
-    "drive train/swerve drive/Hardware/encoders.md",
-    "drive train/swerve drive/Hardware/prototypes/MK1/Cad.md",
-    "drive train/swerve drive/Hardware/Hardware.md",
-    "drive train/swerve drive/Premade Hardware.md"
+    "drive train/swerve drive/Software/Philosophies.md"
   ]
 }
