@@ -12,4 +12,10 @@ this can be expressed in a 2 dimentional place where y is the distance from the 
 assuming that the drivetrain of the robot and the turret are in the same xy positoin (which isn't true)
 the turret is at a fixed angle for now and we can later add the funcitoinality to to find the most optimal ball path once we have an adjustable shooter hood.
 
-the quation for the velocity of the ball with a fixed angle and a fixed target is c
+the equation for the velocity of the ball with a fixed angle and a fixed target is:
+V = ((horizontal distance to target) * sqrt(-gravity)) / 
+(sin(launching angle) * sqrt(-2 * (height to the target - (horizontal distance to target/tan(launching angle))))
+
+{https://www.desmos.com/calculator/c2tdl39fhb - derived by josiah fu}
+
+now with the equation for velocity given a launch angle (constant), distnance to target vertically (constant), and a distance to target horizontally (variable), we can 
